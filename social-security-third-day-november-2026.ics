@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-security-third-day-november-2026@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Social Security: third-of-month cycle - payment date
+DESCRIPTION:For beneficiaries assigned the third-of-month payment cycle\; t
+ his includes exceptions listed in SSA Handbook 121.3. Independent calendar
+  derived from SSA rules and the OPM holiday calendar\; confirm your assign
+ ed cycle with SSA.
+URL:https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html
+END:VEVENT
+END:VCALENDAR

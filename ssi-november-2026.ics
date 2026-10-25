@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ssi-november-2026@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:SSI: November benefit - payment date
+DESCRIPTION:November SSI benefit paid early\; November 1 is a Sunday. Indep
+ endent calendar derived from SSA rules and the OPM holiday calendar\; conf
+ irm your assigned cycle with SSA.
+URL:https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html
+END:VEVENT
+END:VCALENDAR

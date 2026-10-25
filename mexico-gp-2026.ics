@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mexico-gp-2026-qualifying@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:Mexico GP qualifying
+DESCRIPTION:Official scheduled session window\, subject to change. Actual r
+ ace duration may vary. US daylight saving ends between qualifying and race
+ . Independent download derived from F1 timetable\; not an official F1 feed
+ .
+URL:https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-
+ ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ
+END:VEVENT
+BEGIN:VEVENT
+UID:mexico-gp-2026-race@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:Mexico GP race - scheduled window
+DESCRIPTION:Official scheduled session window\, subject to change. Actual r
+ ace duration may vary. US daylight saving ends between qualifying and race
+ . Independent download derived from F1 timetable\; not an official F1 feed
+ .
+URL:https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-
+ ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ
+END:VEVENT
+END:VCALENDAR

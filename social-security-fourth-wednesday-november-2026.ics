@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-security-fourth-wednesday-november-2026@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Social Security: fourth-Wednesday cycle - payment date
+DESCRIPTION:November payment for the fourth-Wednesday cycle. Independent ca
+ lendar derived from SSA rules and the OPM holiday calendar\; confirm your 
+ assigned cycle with SSA.
+URL:https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html
+END:VEVENT
+END:VCALENDAR

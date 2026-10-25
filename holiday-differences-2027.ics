@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Three observed-date differences//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Three 2027 service-calendar difference reminders
+BEGIN:VEVENT
+UID:service-difference-2027-06-18@trends.compsetly.com
+DTSTAMP:20261025T153832Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Compare service calendars: Juneteenth National Independence Day
+DESCRIPTION:Comparison reminder: Juneteenth National Independence Day. OPM 
+ for most Monday-Friday employees: Holiday observed. Federal Reserve Banks 
+ and Branches: Open\; Board of Governors: Closed. NYSE holiday calendar: Cl
+ osed: Juneteenth observed. This is one of three all-day comparison reminde
+ rs\, not a complete calendar of closures or operating hours. It does not d
+ etermine private-bank branch access or FedACH processing. Check publisher 
+ notices for changes.  Sources: https://www.opm.gov/policy-data-oversight/p
+ ay-leave/federal-holidays/ | https://www.federalreserve.gov/aboutthefed/k8
+ .htm | https://www.nyse.com/trade/hours-calendars
+URL:https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ic
+ s/#calendar-differences
+END:VEVENT
+BEGIN:VEVENT
+UID:service-difference-2027-12-24@trends.compsetly.com
+DTSTAMP:20261025T153832Z
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:Compare service calendars: Christmas Day
+DESCRIPTION:Comparison reminder: Christmas Day. OPM for most Monday-Friday 
+ employees: Holiday observed. Federal Reserve Banks and Branches: Open\; Bo
+ ard of Governors: Closed. NYSE holiday calendar: Closed: Christmas observe
+ d. This is one of three all-day comparison reminders\, not a complete cale
+ ndar of closures or operating hours. It does not determine private-bank br
+ anch access or FedACH processing. Check publisher notices for changes.  So
+ urces: https://www.opm.gov/policy-data-oversight/pay-leave/federal-holiday
+ s/ | https://www.federalreserve.gov/aboutthefed/k8.htm | https://www.nyse.
+ com/trade/hours-calendars
+URL:https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ic
+ s/#calendar-differences
+END:VEVENT
+BEGIN:VEVENT
+UID:service-difference-2027-12-31@trends.compsetly.com
+DTSTAMP:20261025T153832Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Compare service calendars: New Year's Day 2028
+DESCRIPTION:Comparison reminder: New Year's Day 2028. OPM for most Monday-F
+ riday employees: Holiday observed early. Federal Reserve Banks and Branche
+ s: Open\; Board of Governors: Closed. NYSE holiday calendar: No New Year's
+  Day holiday observed for 2028. This is one of three all-day comparison re
+ minders\, not a complete calendar of closures or operating hours. It does 
+ not determine private-bank branch access or FedACH processing. Check publi
+ sher notices for changes.  Sources: https://www.opm.gov/policy-data-oversi
+ ght/pay-leave/federal-holidays/ | https://www.federalreserve.gov/aboutthef
+ ed/k8.htm | https://www.nyse.com/trade/hours-calendars
+URL:https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ic
+ s/#calendar-differences
+END:VEVENT
+END:VCALENDAR

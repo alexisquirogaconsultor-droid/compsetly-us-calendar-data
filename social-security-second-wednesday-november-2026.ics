@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-security-second-wednesday-november-2026@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Social Security: second-Wednesday cycle - payment date
+DESCRIPTION:Scheduled November 11 is Veterans Day\, so the second-Wednesday
+  cycle moves to November 10. This does not apply to every recipient. Indep
+ endent calendar derived from SSA rules and the OPM holiday calendar\; conf
+ irm your assigned cycle with SSA.
+URL:https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html
+END:VEVENT
+END:VCALENDAR

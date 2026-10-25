@@ -1,0 +1,189 @@
+{
+  "title": "Compsetly independent calendar data",
+  "compilationBy": "Compsetly",
+  "scope": "Only three independent, dated dataset snapshots. Neither official feeds nor live subscriptions.",
+  "catalog": "https://trends.compsetly.com/data-catalog/",
+  "sourceCatalogDateModified": "2026-10-25T15:50:26Z",
+  "timestampsPolicy": "CSV timestamps and ICS DTSTAMP values are retained exactly; preparing the repository is not a source review or new publication date.",
+  "rights": "No blanket license assertion. See RIGHTS.md and original publisher terms.",
+  "datasets": [
+    {
+      "id": "ssi-november-cycles",
+      "name": "SSI and Social Security payment cycles",
+      "scope": "Assigned-cycle dates, not individual eligibility or bank posting times.",
+      "canonicalPage": "https://trends.compsetly.com/ssi-payment-dates-2026/",
+      "catalogDatasetId": "https://trends.compsetly.com/data-catalog/#ssi-payment-dates-2026-november-payment-cycles",
+      "temporalCoverage": "2026-10-30/2026-11-25",
+      "sourceUrls": [
+        "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html"
+      ],
+      "existingCatalogDatasetModified": "2026-10-25T15:23:14Z",
+      "existingCsvTimestamps": {
+        "checked_utc": [
+          "2026-10-25T15:23:14Z"
+        ]
+      },
+      "files": [
+        {
+          "path": "ssi-november-payment-cycles.csv",
+          "sourceAssetPath": "ssi-payment-dates-2026/november-payment-cycles.csv",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/november-payment-cycles.csv",
+          "encodingFormat": "text/csv",
+          "bytes": 1505,
+          "sha256": "f04cf73b540095a378ff168c3d0d4c545c6d7beff1442ed9c1523d51173a1ed9",
+          "rows": 5
+        },
+        {
+          "path": "social-security-fourth-wednesday-november-2026.ics",
+          "sourceAssetPath": "ssi-payment-dates-2026/social-security-fourth-wednesday-november-2026.ics",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/social-security-fourth-wednesday-november-2026.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 629,
+          "sha256": "638d7936b513eb5d40ba598137857767a2baf394c72a37871c4ac90d60fa6406",
+          "events": 1,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        },
+        {
+          "path": "social-security-second-wednesday-november-2026.ics",
+          "sourceAssetPath": "ssi-payment-dates-2026/social-security-second-wednesday-november-2026.ics",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/social-security-second-wednesday-november-2026.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 715,
+          "sha256": "16ff91e00831b650762147b923e946b91b20995b56beef66730f9cb38901f6b0",
+          "events": 1,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        },
+        {
+          "path": "social-security-third-day-november-2026.ics",
+          "sourceAssetPath": "ssi-payment-dates-2026/social-security-third-day-november-2026.ics",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/social-security-third-day-november-2026.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 691,
+          "sha256": "fee4f878f9dafcf10637c419b721a7035b46452673fe80fa0beb234af888fbd5",
+          "events": 1,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        },
+        {
+          "path": "social-security-third-wednesday-november-2026.ics",
+          "sourceAssetPath": "ssi-payment-dates-2026/social-security-third-wednesday-november-2026.ics",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/social-security-third-wednesday-november-2026.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 626,
+          "sha256": "a532d605e85185d9bb910f1d4cc46f3cc00711b7391715b9f52ba34c3aaacc52",
+          "events": 1,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        },
+        {
+          "path": "ssi-november-2026.ics",
+          "sourceAssetPath": "ssi-payment-dates-2026/ssi-november-2026.ics",
+          "canonicalDownload": "https://trends.compsetly.com/ssi-payment-dates-2026/ssi-november-2026.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 591,
+          "sha256": "2cdfedb22f86d31275c0c04f64b62c97f12421c587daf23970e09fbe4a0cd9f7",
+          "events": 1,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mexico-gp-2026",
+      "name": "Mexico GP starts across the US clock change",
+      "scope": "Scheduled starts including Phoenix, Honolulu and Anchorage.",
+      "canonicalPage": "https://trends.compsetly.com/mexico-gp-2026-start-time-us-daylight-saving/",
+      "catalogDatasetId": "https://trends.compsetly.com/data-catalog/#mexico-gp-2026-start-time-us-daylight-saving-calendar",
+      "temporalCoverage": "2026-10-31/2026-11-01",
+      "sourceUrls": [
+        "https://www.formula1.com/en/latest/article/formula-1-gran-premio-de-la-ciudad-de-mexico-2026.14b3wTWzNNLJ5Wd8cG7HCQ"
+      ],
+      "existingCatalogDatasetModified": "2026-10-25T15:23:14Z",
+      "existingCsvTimestamps": {
+        "start_utc": [
+          "2026-10-31T21:00:00+00:00",
+          "2026-11-01T20:00:00+00:00"
+        ],
+        "checked_utc": [
+          "2026-10-25T15:23:14Z"
+        ],
+        "conversion_updated_utc": [
+          "2026-10-25T15:42:10Z"
+        ]
+      },
+      "files": [
+        {
+          "path": "mexico-gp-2026-times.csv",
+          "sourceAssetPath": "mexico-gp-2026-start-time-us-daylight-saving/calendar.csv",
+          "canonicalDownload": "https://trends.compsetly.com/mexico-gp-2026-start-time-us-daylight-saving/calendar.csv",
+          "encodingFormat": "text/csv",
+          "bytes": 831,
+          "sha256": "54066d65476ed83c5a0b2b3a20658d86f694675ef1dc45aff0a6de94e7691088",
+          "rows": 2
+        },
+        {
+          "path": "mexico-gp-2026.ics",
+          "sourceAssetPath": "mexico-gp-2026-start-time-us-daylight-saving/calendar.ics",
+          "canonicalDownload": "https://trends.compsetly.com/mexico-gp-2026-start-time-us-daylight-saving/calendar.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 1223,
+          "sha256": "f54d48847b79ecc84a0090ca5467acb08cd3f35c762a93215f296d2dc27db5bd",
+          "events": 2,
+          "existingDtstamps": [
+            "20261025T152314Z"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "service-calendar-differences-2027",
+      "name": "Three 2027 holiday-calendar differences",
+      "scope": "Three specified dates; not a complete market or bank closure calendar.",
+      "canonicalPage": "https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ics/",
+      "catalogDatasetId": "https://trends.compsetly.com/data-catalog/#federal-holidays-2027-observed-calendar-ics-comparison",
+      "temporalCoverage": "2027-06-18/2027-12-31",
+      "sourceUrls": [
+        "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+        "https://www.federalreserve.gov/aboutthefed/k8.htm",
+        "https://www.nyse.com/trade/hours-calendars"
+      ],
+      "existingCatalogDatasetModified": null,
+      "existingCsvTimestamps": {
+        "reviewed_utc": [
+          "2026-10-25T15:38:32Z"
+        ]
+      },
+      "files": [
+        {
+          "path": "holiday-differences-2027.csv",
+          "sourceAssetPath": "federal-holidays-2027-observed-calendar-ics/comparison.csv",
+          "canonicalDownload": "https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ics/comparison.csv",
+          "encodingFormat": "text/csv",
+          "bytes": 1423,
+          "sha256": "88f399a1be560896fd735fcd9d4e267f1b745837799108b3e273391245261690",
+          "rows": 3
+        },
+        {
+          "path": "holiday-differences-2027.ics",
+          "sourceAssetPath": "federal-holidays-2027-observed-calendar-ics/differences.ics",
+          "canonicalDownload": "https://trends.compsetly.com/federal-holidays-2027-observed-calendar-ics/differences.ics",
+          "encodingFormat": "text/calendar",
+          "bytes": 3167,
+          "sha256": "b5032f46fce2fcc46c8821e3d106c87397f3bccfd6281a8e9707b3616a5dcf80",
+          "events": 3,
+          "existingDtstamps": [
+            "20261025T153832Z"
+          ]
+        }
+      ]
+    }
+  ]
+}

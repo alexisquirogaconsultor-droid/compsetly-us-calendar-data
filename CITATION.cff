@@ -1,0 +1,20 @@
+{
+  "cff-version": "1.2.0",
+  "type": "dataset",
+  "title": "Compsetly independent calendar data: SSI cycles, Mexico GP times and three 2027 service-calendar differences",
+  "message": "Please cite this independent Compsetly compilation and retain the original publisher source citations for factual claims.",
+  "authors": [
+    {
+      "name": "Compsetly",
+      "website": "https://trends.compsetly.com/"
+    }
+  ],
+  "url": "https://trends.compsetly.com/data-catalog/",
+  "abstract": "Three independent, dated CSV and iCalendar snapshots: assigned November 2026 SSI/Social Security payment cycles; Mexico GP 2026 scheduled-session time conversions; and a three-date OPM/Federal Reserve/NYSE calendar comparison. Source review and conversion timestamps are preserved. No official endorsement or live-feed status is asserted.",
+  "keywords": [
+    "payment calendars",
+    "time-zone conversions",
+    "service-calendar comparisons",
+    "independent compilation"
+  ]
+}

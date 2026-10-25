@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compsetly//Source-linked calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:social-security-third-wednesday-november-2026@trends.compsetly.com
+DTSTAMP:20261025T152314Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Social Security: third-Wednesday cycle - payment date
+DESCRIPTION:November payment for the third-Wednesday cycle. Independent cal
+ endar derived from SSA rules and the OPM holiday calendar\; confirm your a
+ ssigned cycle with SSA.
+URL:https://www.ssa.gov/OP_Home/handbook/handbook.01/handbook-0121.html
+END:VEVENT
+END:VCALENDAR
